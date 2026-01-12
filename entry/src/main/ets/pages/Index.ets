@@ -3,7 +3,7 @@ import BuildProfile from 'BuildProfile';
 @Entry
 @Component
 struct Index {
-  @State steps: number = 3587;
+  steps: number = 3587;
 
   estimateCalories(steps: number): number {
     return Math.floor(steps * 0.04);

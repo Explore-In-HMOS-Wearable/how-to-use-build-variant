@@ -7,8 +7,8 @@ This application shows how to implement product-based build variants (`free` and
 # Preview
 
 <div>
-<img src="resources/free.png" width="25%" />
-<img src="resources/paid.png" width="25%" />
+<img src="screenshots/ss1.png" width="25%" />
+<img src="screenshots/ss2.png" width="25%" />
 </div>
 
 # Use Cases
@@ -41,7 +41,7 @@ Main page for displaying the user's step count.
 ## Supported Device
 - Huawei Watch 5
 
-## Before 
+## Build Mode Selection
 - Before building, **Build Mode** must be selected as free or paid.
 
 ## Build Variant Configuration (build-profile.json5)
@@ -73,5 +73,3 @@ Main page for displaying the user's step count.
 
 # LICENSE
 **Build Variant** is distributed under the terms of the MIT License.
-See the [license](/LICENSE) for more information.
-
